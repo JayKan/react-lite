@@ -4,6 +4,11 @@
 
 > My attempt at understanding the internals of React and its intricacies by re-implementing React from Scratch!
 
+## Running Demo App
+> Make sure you run `npm install` in both `lib` and `demo` folders
+
+Once you have completed above steps, navigate to `demo` folder run `npm start`, and open `index.html` from the demo folder :rocket:
+
 ## Terminology 
 - Component Class: what you define in your React component
 - Component Instance
